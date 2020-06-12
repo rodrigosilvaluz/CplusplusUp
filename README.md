@@ -1,2 +1,2 @@
-# C-Up
+# CpluplusUp
 Scripts em C++
